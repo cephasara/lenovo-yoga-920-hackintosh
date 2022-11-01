@@ -29,7 +29,7 @@ Files for installing MacOS Ventura on Lenovo Yoga 920
 Please note, features I have not included do not have SSDT or other easy ACPI patches. I am strongly against DSDT patches, as they break with BIOS changes, are extremely fragile, and can break sleep, Apple iServices etc. No part of this guide requires DSDT patching.
 ### Installation
 
-1. I used Install Disk Creator to download the Big Sur 11.1 update and write it to a USB.
+1. I used Install Disk Creator to download the Ventura 13.0 update and write it to a USB.
  1. Please make sure the USB is formatted as GPT
 1. I mounted the EFI partition on the USB with an, old, but highly useful tool called EFI MountainShow (or you could just use diskutil via command line as well)
 1. Copy the EFI partition I provided to the EFI partition you mounted
