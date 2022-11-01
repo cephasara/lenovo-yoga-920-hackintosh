@@ -1,5 +1,5 @@
 # lenovo-yoga-920-hackintosh
-Files for installing MacOS on Lenovo Yoga 920
+Files for installing MacOS Ventura on Lenovo Yoga 920
 
 ### What Doesn't Work
 * Fingerprint Sensor
@@ -16,7 +16,7 @@ Files for installing MacOS on Lenovo Yoga 920
 * Audio (Realtek ALC298 detected)
 * USB (as far as I've determined)
 * NVMe
-* WiFi with Broadcom BCM4352 (I swapped my wireless card out for a DW1520)
+* WiFi with Broadcom BCM4352 (I swapped my wireless card out for a DW1560)
 * Camera
 * Apple iServices (iMessage, Facetime, iCloud--as long as you update your SMBIOS as described below)
 
